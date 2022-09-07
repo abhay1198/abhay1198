@@ -3,7 +3,7 @@
 
 **I am [Abhay](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/), a passionate magento developer from <a href="https://en.wikipedia.org/wiki/India"><img src="https://user-images.githubusercontent.com/55655451/90338483-a2dce580-e007-11ea-8341-9d471535719f.png" width="25" height="22"></a>**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhay-Agrawal)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhay1198)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbhayAg34169182) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12543889/abhay-agrawal)  
