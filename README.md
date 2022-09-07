@@ -9,13 +9,23 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12543889/abhay-agrawal)  
 
 
-![](https://komarev.com/ghpvc/?username=Abhay-Agrawal&color=green)
+![](https://komarev.com/ghpvc/?username=abhay1198&color=green)
 ___
 **I mostly work with Magento2 and web designing technologies.**
 
 <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript"><img src="https://user-images.githubusercontent.com/55655451/90337478-5cd05380-e000-11ea-95ef-fd5b7b7cc2b8.png" width="100" height="100"></a>
 <a href="https://devdocs.magento.com/"><img src="https://user-images.githubusercontent.com/55655451/90338141-06b1df00-e005-11ea-992b-451778cb304d.png" width="100" height="100"></a>
 <a href="https://www.php.net/"><img src="https://user-images.githubusercontent.com/55655451/90338219-a3747c80-e005-11ea-901d-90b4709e14fe.png" height="100"></a>
+
+___
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay1198)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay1198&show_icons=true&theme=radical) 
+
+___
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhay1198)  
+
+
+
+
 
 
 <!--
